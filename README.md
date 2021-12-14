@@ -1,6 +1,6 @@
 # CSS-Practicing
 
-File: MAgic CSS
+File: Magic CSS
 
 <p align="center">
   <img src="./image/Home.png" width="300" title="hover text">
